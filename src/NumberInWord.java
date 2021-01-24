@@ -39,5 +39,5 @@ public class NumberInWord {
             System.out.println("OTHER");
         }
     }
-}
+}//Agbesi.Amenyo
 
